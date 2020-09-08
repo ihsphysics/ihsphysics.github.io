@@ -11286,8 +11286,8 @@ Start Responsive style
     border: 1px solid #32325d;
   }
   .navbar-light .navbar-toggler {
-    border-color: #29c06c;
-    background: #29c06c;
+    border-color: #000000;
+    background: #ffffff;
     padding: 0 4px;
     border: 0;
   }
@@ -11431,8 +11431,8 @@ Start Responsive style
   .navbar-collapse.collapse,
   .navbar-collapse.collapsing,
   .navbar-collapse.collapse.show {
-    border-top: 1px solid #082322;
-    background: #082322;
+    border-top: 1px solid #ffffff;
+    background: #ffffff;
   }
   .navbar .btn_pricing .btn {
     max-width: 200px;
