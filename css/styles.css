@@ -65,7 +65,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #ffffff;
+  color: #212529;
   text-align: left;
   background-color: #000000;
 }
@@ -6289,7 +6289,7 @@ button.bg-dark:focus {
 }
 
 .bg-black {
-  background-color: #ffffff !important;
+  background-color: #000000 !important;
 }
 
 a.bg-black:hover, a.bg-black:focus,
@@ -10009,7 +10009,7 @@ a.text-black:hover, a.text-black:focus {
 }
 
 .text-white-50 {
-  color: black !important;
+  color: white !important;
 }
 
 .text-hide {
@@ -10470,7 +10470,7 @@ section {
 }
 body {
   line-height: 1;
-  background: #000000;
+  background: #ffffff;
 }
 ol,
 ul {
@@ -10523,7 +10523,7 @@ h4,
 h5,
 h6 {
   font-family: 'Oswald', sans-serif;
-  color: white;
+  color: #ffffff;
   margin: 5px 0 10px;
   padding: 0;
 }
@@ -10551,7 +10551,7 @@ strong {
 }
 p {
   line-height: 1.7rem;
-  color: white;
+  color: #ffffff;
   font-family: 'Open Sans', sans-serif;
 }
 .btn {
@@ -11254,7 +11254,7 @@ Close Footer copyright style
 .btn-border-sq{
   background: transparent;
   border: 2px solid #0000ff;
-  color: white;
+  color: #333;
   font-size: 16px;
   padding: 5px 15px;
   border-radius: 2px;
